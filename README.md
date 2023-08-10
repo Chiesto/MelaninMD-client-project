@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Problem Statement](#problem-statement)
 - [Built With](#built-with)
 - [Prerequisites](#prerequisite)
 - [Installation](#installation)
