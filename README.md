@@ -1,4 +1,4 @@
-![Repo Size](https://img.shields.io/github/languages/code-size/MelaninMD/star-pet.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/MelaninMD/star-pet.svg?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/languages/code-size/MelaninMD-client-project/star-pet.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/MelaninMD-client-project/star-pet.svg?style=for-the-badge)
 
 # MelaninMD
 
